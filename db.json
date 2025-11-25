@@ -1,0 +1,59 @@
+{
+  "consoles": [
+    {
+      "id": 1,
+      "name": "Xbox",
+      "manufacturer": "Microsoft",
+      "generation": "Series X/S"
+    },
+    {
+      "id": 2,
+      "name": "PlayStation",
+      "manufacturer": "Sony",
+      "generation": "PlayStation 4/5"
+    },
+    {
+      "id": 3,
+      "name": "PC",
+      "manufacturer": "Various",
+      "generation": "Modern Desktop"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "title": "Hades II",
+      "developer": "Supergiant Games",
+      "release_date": "2025-09-25",
+      "console_id": [3]
+    },
+    {
+      "id": 2,
+      "title": "Clair Obscur: Expedition 33",
+      "developer": "Sandfall Interactive",
+      "release_date": "2025-04-24",
+      "console_id": [1, 2, 3]
+    },
+    {
+      "id": 3,
+      "title": "Blue Prince",
+      "developer": "Dogubomb",
+      "release_date": "2025-04-10",
+      "console_id": [1, 2, 3]
+    },
+    {
+      "id": 4,
+      "title": "Split Fiction",
+      "developer": "Hazelight Studios",
+      "release_date": "2025-03-06",
+      "console_id": [1, 2, 3]
+    },
+    {
+      "id": 5,
+      "title": "Hollow Knight: Silksong",
+      "developer": "Team Cherry",
+      "release_date": "2025-09-04",
+      "console_id": [1, 2, 3]
+    }
+  ]
+}
